@@ -9,6 +9,7 @@ oaiusercontent.com
 chat.com
 ai.com
 chat.openai.com.cdn.cloudflare.net
+production-openaicom-storage.azureedge.net
 
 x.ai
 grok.com
@@ -18,6 +19,8 @@ notion.com
 notion.new
 notion.site
 notion-static.com
+notion-emojis.s3-us-west-2.amazonaws.com
+code.gist.build
 
 news.google.com
 suggestqueries.google.com
@@ -107,9 +110,16 @@ install.launcher.omniverse.nvidia.com
 
 canva.dev
 canva.com
+kaleido.ai
 
 usher.ttvnw.net
 gql.twitch.tv
+
+parallels.com
+myparallels.com
+parallels.net
+parallels.cn
+parallelsaccess.com
 
 adobe.com
 servarr.com
@@ -129,6 +139,7 @@ swagger.io
 smartbear.co
 snort.org
 redis.io
+redislabs.com
 snyk.io
 pingdom.com
 intuitibits.com
@@ -298,6 +309,7 @@ bitdefender.com
 corsair.com
 mattermost.com
 sentry.io
+sentry.dev
 torrenteditor.com
 ntp.msn.com
 oracle.com
@@ -343,3 +355,30 @@ ikea.com
 filebin.net
 andrevi.ch
 ansys.com
+clickup.com
+mailerlite.com
+hc-ping.com
+hchk.io
+expandrive.com
+editorx.com
+myqrcode.com
+openrouter.ai
+trae.ai
+yeggi.com
+wbgames.com
+openh264.org
+wunderground.com
+intuit.com
+deezer.com
+spotify.com
+imgur.com
+app.zerossl.com
+snapgene.com
+miracleptr.wordpress.com
+uizard.io
+grizzlysms.com
+lgthinq.com
+lgeapi.com
+data.cline.bot
+exchanger.bits.media
+tidal.com
